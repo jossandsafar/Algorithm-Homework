@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\algo-homework\bin\Debug\algo-homework.exe.config
+C:\Users\HP\Desktop\algo-homework\bin\Debug\algo-homework.exe
+C:\Users\HP\Desktop\algo-homework\bin\Debug\algo-homework.pdb
+C:\Users\HP\Desktop\algo-homework\obj\Debug\algo-homework.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\algo-homework\obj\Debug\algo-homework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\algo-homework\obj\Debug\algo-homework.exe
+C:\Users\HP\Desktop\algo-homework\obj\Debug\algo-homework.pdb
